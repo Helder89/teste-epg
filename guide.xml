@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVCINE TOP">
+    <display-name lang="pt">TVCINE TOP</display-name>
+    <icon src="http://www.guia-tv.pt/logos/tvcine-1.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <programme start="20200503000500 +0100" stop="20200503005000 +0100" channel="TVCINE TOP">
+    <title lang="pt">A Sombra da Verdade</title>
+  </programme>
+  <programme start="20200503005000 +0100" stop="20200503024000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Belleville Cop - O Super Agente</title>
+  </programme>
+  <programme start="20200503024000 +0100" stop="20200503040000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Tiro e Queda</title>
+  </programme>
+  <programme start="20200503040000 +0100" stop="20200503053500 +0100" channel="TVCINE TOP">
+    <title lang="pt">Pânico na Bruma</title>
+  </programme>
+  <programme start="20200503053500 +0100" stop="20200503073000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Bem-Vindos a Marwen</title>
+  </programme>
+  <programme start="20200503073000 +0100" stop="20200503094000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Aladdin (2019) (VO)</title>
+  </programme>
+  <programme start="20200503094000 +0100" stop="20200503114000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Família Instantânea</title>
+  </programme>
+  <programme start="20200503114000 +0100" stop="20200503132000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Pássaros Amarelos</title>
+  </programme>
+  <programme start="20200503132000 +0100" stop="20200503151000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Rei dos Ladrões</title>
+  </programme>
+  <programme start="20200503151000 +0100" stop="20200503171000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Robin Hood (2018)</title>
+  </programme>
+  <programme start="20200503171000 +0100" stop="20200503192000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Homem-Aranha: Longe de Casa</title>
+  </programme>
+  <programme start="20200503192000 +0100" stop="20200503213000 +0100" channel="TVCINE TOP">
+    <title lang="pt">Glass</title>
+  </programme>
+</tv>
